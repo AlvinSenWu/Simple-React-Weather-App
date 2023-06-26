@@ -5,5 +5,6 @@
 
 <h3>Mobile View</h3>
 
-![image](https://github.com/AlvinSenWu/Simple-React-Weather-App/assets/90438128/517afdea-a57d-4d85-b6d5-7ecf1fae3091)
+![image](https://github.com/AlvinSenWu/Simple-React-Weather-App/assets/90438128/ee4fe927-4cdc-40de-9a12-cc9a82dc2688)
+
 
